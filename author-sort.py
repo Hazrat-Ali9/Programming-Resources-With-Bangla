@@ -1,6 +1,6 @@
 #This script helps to create the lexicographic order in the author list file
 #How to: Just add a blog link in the existing 'blog-list.md' file and run this script
-
+# Hazrat Ali
 import re
 import collections
 
